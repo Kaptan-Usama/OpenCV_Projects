@@ -22,11 +22,11 @@ This is a simple Python script to create a digital clock using OpenCV (cv2). The
     ```
 2. Navigate to the project directory:
     ```
-    cd digital-clock
+    cd OpenCV_Projects/Clock_Project
     ```
 3. Run the script:
     ```
-    python digital_clock.py
+    python main.py
     ```
 4. Press 'q' to quit the application.
 
